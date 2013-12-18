@@ -33,18 +33,17 @@
 
 - (void)configureView
 {
-    // Update the user interface for the detail item.
 
-    if (self.detailItem) {
-        self.detailDescriptionLabel.text = [self.detailItem description];
-    }
 }
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-    [self configureView];
+    NSURL *myURL = [NSURL URLWithString: [self.url stringByAddingPercentEscapesUsingEncoding:
+                                          NSUTF8StringEncoding]];
+    NSURLRequest *request = [NSURLRequest requestWithURL:myURL];
+    [self.webView loadRequest:request];
+    
 }
 
 - (void)didReceiveMemoryWarning

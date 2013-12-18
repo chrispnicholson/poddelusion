@@ -23,6 +23,10 @@
 		92210ABA18186D5600088A50 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 92210A9618186D5500088A50 /* UIKit.framework */; };
 		92210AC218186D5600088A50 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 92210AC018186D5600088A50 /* InfoPlist.strings */; };
 		92210AC418186D5600088A50 /* poddelusionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 92210AC318186D5600088A50 /* poddelusionTests.m */; };
+		92210ACF18186FBF00088A50 /* RSSEntry.m in Sources */ = {isa = PBXBuildFile; fileRef = 92210ACE18186FBF00088A50 /* RSSEntry.m */; };
+		92210AD118217E4500088A50 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 92210AD018217E4500088A50 /* Icon.png */; };
+		92210AD318217E6800088A50 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 92210AD218217E6800088A50 /* Icon@2x.png */; };
+		92210AD61831341C00088A50 /* NSPDXMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 92210AD51831341C00088A50 /* NSPDXMLParser.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +62,12 @@
 		92210ABF18186D5600088A50 /* poddelusionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "poddelusionTests-Info.plist"; sourceTree = "<group>"; };
 		92210AC118186D5600088A50 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		92210AC318186D5600088A50 /* poddelusionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = poddelusionTests.m; sourceTree = "<group>"; };
+		92210ACD18186FBF00088A50 /* RSSEntry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RSSEntry.h; sourceTree = "<group>"; };
+		92210ACE18186FBF00088A50 /* RSSEntry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RSSEntry.m; sourceTree = "<group>"; };
+		92210AD018217E4500088A50 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = poddelusion/Icon.png; sourceTree = "<group>"; };
+		92210AD218217E6800088A50 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "poddelusion/Icon@2x.png"; sourceTree = "<group>"; };
+		92210AD41831341C00088A50 /* NSPDXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSPDXMLParser.h; sourceTree = "<group>"; };
+		92210AD51831341C00088A50 /* NSPDXMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSPDXMLParser.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +97,8 @@
 		92210A8618186D5500088A50 = {
 			isa = PBXGroup;
 			children = (
+				92210AD218217E6800088A50 /* Icon@2x.png */,
+				92210AD018217E4500088A50 /* Icon.png */,
 				92210A9818186D5500088A50 /* poddelusion */,
 				92210ABD18186D5600088A50 /* poddelusionTests */,
 				92210A9118186D5500088A50 /* Frameworks */,
@@ -120,6 +132,8 @@
 				92210AA118186D5500088A50 /* AppDelegate.h */,
 				92210AA218186D5500088A50 /* AppDelegate.m */,
 				92210AA418186D5500088A50 /* Main_iPhone.storyboard */,
+				92210ACD18186FBF00088A50 /* RSSEntry.h */,
+				92210ACE18186FBF00088A50 /* RSSEntry.m */,
 				92210AA718186D5500088A50 /* Main_iPad.storyboard */,
 				92210AAA18186D5500088A50 /* MasterViewController.h */,
 				92210AAB18186D5500088A50 /* MasterViewController.m */,
@@ -127,6 +141,8 @@
 				92210AAE18186D5500088A50 /* DetailViewController.m */,
 				92210AB018186D5500088A50 /* Images.xcassets */,
 				92210A9918186D5500088A50 /* Supporting Files */,
+				92210AD41831341C00088A50 /* NSPDXMLParser.h */,
+				92210AD51831341C00088A50 /* NSPDXMLParser.m */,
 			);
 			path = poddelusion;
 			sourceTree = "<group>";
@@ -236,9 +252,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92210AD118217E4500088A50 /* Icon.png in Resources */,
 				92210AA918186D5500088A50 /* Main_iPad.storyboard in Resources */,
 				92210AB118186D5500088A50 /* Images.xcassets in Resources */,
 				92210AA618186D5500088A50 /* Main_iPhone.storyboard in Resources */,
+				92210AD318217E6800088A50 /* Icon@2x.png in Resources */,
 				92210A9D18186D5500088A50 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -262,6 +280,8 @@
 				92210AAC18186D5500088A50 /* MasterViewController.m in Sources */,
 				92210A9F18186D5500088A50 /* main.m in Sources */,
 				92210AAF18186D5500088A50 /* DetailViewController.m in Sources */,
+				92210ACF18186FBF00088A50 /* RSSEntry.m in Sources */,
+				92210AD61831341C00088A50 /* NSPDXMLParser.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
