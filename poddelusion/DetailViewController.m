@@ -41,11 +41,13 @@
     [super viewDidLoad];
     NSLog(@"URL is %@", self.url);
     NSURL *audiourl = [NSURL URLWithString:self.url];
-    NSData *soundData = [NSData dataWithContentsOfURL:audiourl];
     
     NSError *error;
-    _audioPlayer = [[AVAudioPlayer alloc] initWithData:soundData error:&error];
-    
+    _audioPlayer = [[AVPlayer alloc] initWithURL:audiourl];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(playerItemDidReachEnd:) name:AVPlayerItemDidPlayToEndTimeNotification object:[_audioPlayer currentItem]];
+    [_audioPlayer addObserver:self forKeyPath:@"status" options:0 context:nil];
+    [NSTimer scheduledTimerWithTimeInterval:0.1 target:self selector:@selector(updateProgress:) userInfo:nil repeats:YES];
+
     if (error)
     {
         NSLog(@"Error in audio player: %@",
@@ -53,11 +55,29 @@
     }
     else
     {
-        _audioPlayer.delegate = self;
-        [_audioPlayer prepareToPlay];
+        [_audioPlayer play];
     }
         
 }
+
+- (void)updateProgress:(NSNotification *)notification
+{
+    // code for showing progress
+}
+
+- (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary *)change context:(void *)context
+{
+    if (object == _audioPlayer && [keyPath isEqualToString:@"status"] ) {
+        if (_audioPlayer.status == AVPlayerStatusFailed) {
+            NSLog(@"AVPlayer failed");
+        } else if (_audioPlayer.status == AVPlayerStatusReadyToPlay) {
+            NSLog(@"AVPlayer status ready to play");
+        } else if (_audioPlayer.status == AVPlayerStatusUnknown) {
+            NSLog(@"AVPlayer unknown");
+        }
+    }
+}
+
 
 - (void)didReceiveMemoryWarning
 {
@@ -94,7 +114,12 @@
 
 - (IBAction)stopAudio:(id)sender
 {
-    [_audioPlayer stop];
+    [_audioPlayer pause];
+}
+
+- (void) playerItemDidReachEnd:(NSNotification *)notification
+{
+    // clean up code after audio ends
 }
 
 @end

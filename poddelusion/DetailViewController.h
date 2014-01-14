@@ -9,10 +9,10 @@
 #import <UIKit/UIKit.h>
 #import <AVFoundation/AVFoundation.h>
 
-@interface DetailViewController : UIViewController <UISplitViewControllerDelegate, AVAudioPlayerDelegate>
+@interface DetailViewController : UIViewController <UISplitViewControllerDelegate>
 
 @property (strong, nonatomic) id detailItem;
-@property (strong, nonatomic) AVAudioPlayer *audioPlayer;
+@property (strong, nonatomic) AVPlayer *audioPlayer;
 @property (strong, nonatomic) IBOutlet UISlider *volumeControl;
 
 - (IBAction)adjustVolume:(id)sender;
