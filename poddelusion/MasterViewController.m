@@ -18,6 +18,7 @@
     NSMutableString *title;
     NSMutableString *link;
     NSString *element;
+    NSDictionary *attributes;
     NSMutableString *currentValue;
     BOOL isItem;
 
@@ -124,6 +125,7 @@
 - (void)parser:(NSXMLParser *)parser didStartElement:(NSString *)elementName namespaceURI:(NSString *)namespaceURI qualifiedName:(NSString *)qName attributes:(NSDictionary *)attributeDict {
     
     element = elementName;
+    attributes = attributeDict;
     
     if ([element isEqualToString:@"item"]) {
         isItem  = YES;
@@ -133,6 +135,10 @@
         return;
     }
     
+    if (isItem && [element isEqualToString:@"media:content"]) {
+        [link appendString:[attributes valueForKey:@"url"]];
+    }
+    
 }
 
 - (void)parser:(NSXMLParser *)parser foundCharacters:(NSString *)string {
@@ -140,8 +146,6 @@
     if (isItem) {
         if ([element isEqualToString:@"title"]) {
             [title appendString:string];
-        } else if ([element isEqualToString:@"feedburner:origLink"]) {
-            [link appendString:string];
         }
     }
 }
@@ -163,7 +167,7 @@
         [item setObject:title forKey:@"title"];
     }
     
-    if (isItem && [elementName isEqualToString:@"feedburner:origLink"] ) {
+    if (isItem && [elementName isEqualToString:@"media:content"] ) {
         [item setObject:link forKey:@"link"];
     }
     

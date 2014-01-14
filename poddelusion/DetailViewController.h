@@ -7,12 +7,17 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
 
-@interface DetailViewController : UIViewController <UISplitViewControllerDelegate>
+@interface DetailViewController : UIViewController <UISplitViewControllerDelegate, AVAudioPlayerDelegate>
 
 @property (strong, nonatomic) id detailItem;
+@property (strong, nonatomic) AVAudioPlayer *audioPlayer;
+@property (strong, nonatomic) IBOutlet UISlider *volumeControl;
 
-@property (strong, nonatomic) IBOutlet UIWebView *webView;
+- (IBAction)adjustVolume:(id)sender;
+- (IBAction)playAudio:(id)sender;
+- (IBAction)stopAudio:(id)sender;
 
 @property (copy, nonatomic) NSString *url;
 

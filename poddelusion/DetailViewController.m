@@ -39,11 +39,24 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSURL *myURL = [NSURL URLWithString: [self.url stringByAddingPercentEscapesUsingEncoding:
-                                          NSUTF8StringEncoding]];
-    NSURLRequest *request = [NSURLRequest requestWithURL:myURL];
-    [self.webView loadRequest:request];
+    NSLog(@"URL is %@", self.url);
+    NSURL *audiourl = [NSURL URLWithString:self.url];
+    NSData *soundData = [NSData dataWithContentsOfURL:audiourl];
     
+    NSError *error;
+    _audioPlayer = [[AVAudioPlayer alloc] initWithData:soundData error:&error];
+    
+    if (error)
+    {
+        NSLog(@"Error in audio player: %@",
+              [error localizedDescription]);
+    }
+    else
+    {
+        _audioPlayer.delegate = self;
+        [_audioPlayer prepareToPlay];
+    }
+        
 }
 
 - (void)didReceiveMemoryWarning
@@ -66,6 +79,22 @@
     // Called when the view is shown again in the split view, invalidating the button and popover controller.
     [self.navigationItem setLeftBarButtonItem:nil animated:YES];
     self.masterPopoverController = nil;
+}
+
+- (IBAction)adjustVolume:(id)sender
+{
+    if (_audioPlayer != nil) {
+        _audioPlayer.volume = _volumeControl.value;
+    }
+}
+- (IBAction)playAudio:(id)sender
+{
+    [_audioPlayer play];
+}
+
+- (IBAction)stopAudio:(id)sender
+{
+    [_audioPlayer stop];
 }
 
 @end
