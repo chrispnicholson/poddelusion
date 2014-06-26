@@ -1,0 +1,519 @@
+Tpoddelusion
+v6
+r1
+cCheck dependencies
+cSymLink /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app
+cProcessPCH /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch.pch poddelusion/poddelusion-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/AppDelegate.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/MasterViewController.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/main.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/DetailViewController.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/RSSEntry.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/RSSEntry.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/NSPDXMLParser.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/NSPDXMLParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/poddelusion normal i386
+cCpResource poddelusion/Icon.png Frank/frankified_build/poddelusion.app/Icon.png
+cCompileStoryboard /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/Base.lproj/Main_iPhone.storyboard
+cCpResource poddelusion/Icon@2x.png Frank/frankified_build/poddelusion.app/Icon@2x.png
+cCopyStringsFile /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/en.lproj/InfoPlist.strings poddelusion/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/Images.xcassets
+cProcessInfoPlistFile /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/Info.plist /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/poddelusion-Info.plist
+cGenerateDSYMFile /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app.dSYM /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/poddelusion
+cTouch /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005333289C00000000000003B4
+t1395861660
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533328AA000000000000019E
+t1395861674
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533328AF0000000000446820
+t1395861679
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533328B2000000000088D8C0
+t1395861682
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533328BB0000000001F1DE10
+t1395861691
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533328F30000000000000ADC
+t1395861747
+s2780
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app
+t1403807891
+s374
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/Base.lproj/Main_iPad.storyboardc
+t1403807891
+s204
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/Base.lproj/Main_iPhone.storyboardc
+t1403807887
+s238
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/Icon.png
+t1403807871
+s4477
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/Icon@2x.png
+t1403807887
+s13100
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/Info.plist
+t1403807891
+s1412
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/PkgInfo
+t1403807891
+s8
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/en.lproj/InfoPlist.strings
+t1403807887
+s42
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/poddelusion
+t1403807871
+s815116
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app
+t2
+s0
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app.dSYM
+t2
+s0
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/AppDelegate.o
+t1403807869
+s64564
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/DetailViewController.o
+t1403807870
+s63824
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/MasterViewController.o
+t1403807870
+s73620
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/NSPDXMLParser.o
+t1403807870
+s5768
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/RSSEntry.o
+t1403807870
+s5740
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/main.o
+t1403807870
+s3588
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/poddelusion.LinkFileList
+c0000000053AC6877000000000000039A
+t1403807863
+s922
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/assetcatalog_dependencies.txt
+t1403807889
+s393
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/assetcatalog_generated_info.plist
+t1403807889
+s525
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/AppDelegate.m
+c00000000526835D5000000000000096A
+t1382561237
+s2410
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/Base.lproj/Main_iPad.storyboard
+c0000000052D555B6000000000000282D
+t1389712822
+s10285
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/Base.lproj/Main_iPhone.storyboard
+c0000000052D587CD00000000000026BA
+t1389725645
+s9914
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/DetailViewController.m
+c0000000052D587CC0000000000000DEB
+t1389725644
+s3563
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/Icon.png
+c0000000052714547000000000000117D
+t1383155015
+s4477
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/Icon@2x.png
+c0000000052714512000000000000332C
+t1383154962
+s13100
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/Images.xcassets
+c000000005271470A00000000000000AA
+t1383155466
+s170
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/MasterViewController.m
+c0000000052CC8794000000000000148B
+t1389135764
+s5259
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/NSPDXMLParser.m
+c000000005281009B0000000000000132
+t1384186011
+s306
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/RSSEntry.m
+c000000005268383E00000000000000C9
+t1382561854
+s201
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/en.lproj/InfoPlist.strings
+c00000000526835D5000000000000002D
+t1382561237
+s45
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/main.m
+c00000000526835D50000000000000160
+t1382561237
+s352
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/poddelusion-Info.plist
+c0000000052714BF900000000000006F1
+t1383156729
+s1777
+
+N/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/poddelusion-Prefix.pch
+c00000000526835D50000000000000158
+t1382561237
+s344
+
+N/var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch.pch
+t1403807869
+s116300
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0514eaf79f5cb941^390d1df89f5cb941^---0#1#1#--18"Check dependencies36"4B69F494-A118-44B6-960E-6955FB1DFD5F-
+
+CCompileAssetCatalog /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/Images.xcassets
+s425500687.722002
+e425500689.372589
+r1
+xCompileAssetCatalog
+x/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app
+x/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/LaunchImage-700-568h@2x.png
+o/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/Assets.car
+o/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"[1mCompileAssetCatalog[0m Frank/frankified_build/poddelusion.app [1mpoddelusion/Images.xcassets[0m102"[1mCompileAssetCatalog[0m Frank/frankified_build/poddelusion.app [1mpoddelusion/Images.xcassets[0m6af6b80fa05cb941^d87d5f11a05cb941^-421"/* com.apple.actool.compilation-results *//Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/LaunchImage-700-568h@2x.png/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/Assets.car/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/Images.xcassets/0000000000000000^1447"[1mCompileAssetCatalog[0m Frank/frankified_build/poddelusion.app [1mpoddelusion/Images.xcassets[0m    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/Images.xcassets36"1FB04F32-A1E0-4ACC-AF7C-D6F858C021BE-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/AppDelegate.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425500669.477753
+e425500669.942870
+r1
+xCompileC
+xbuild/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/AppDelegate.o
+x/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/AppDelegate.m
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/AppDelegate.m216"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/AppDelegate.o [1mpoddelusion/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc9727afd9f5cb941^4e80f1fd9f5cb941^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/AppDelegate.m0000000000000000^4065"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/AppDelegate.o [1mpoddelusion/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-generated-files.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-own-target-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-all-target-headers.hmap -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-project-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources/i386 -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources -F/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator -include /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/AppDelegate.dia -c /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/AppDelegate.m -o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/AppDelegate.o36"AEB37C0D-5B84-4025-B110-05345085B2CC-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/DetailViewController.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425500670.136873
+e425500670.591726
+r1
+xCompileC
+xbuild/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/DetailViewController.o
+x/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/DetailViewController.m
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/DetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/DetailViewController.m234"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/DetailViewController.o [1mpoddelusion/DetailViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler403023fe9f5cb941^87a797fe9f5cb941^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/DetailViewController.m0000000000000000^4119"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/DetailViewController.o [1mpoddelusion/DetailViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-generated-files.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-own-target-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-all-target-headers.hmap -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-project-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources/i386 -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources -F/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator -include /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/DetailViewController.d --serialize-diagnostics /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/DetailViewController.dia -c /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/DetailViewController.m -o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/DetailViewController.o36"CCD119C8-3AFE-42F8-A89D-2C5CD62DC738-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/MasterViewController.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425500669.478482
+e425500670.555546
+r1
+xCompileC
+xbuild/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/MasterViewController.o
+x/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/MasterViewController.m
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/MasterViewController.h
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/DetailViewController.h
+o[1m/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/MasterViewController.m:60:132: [0m[0;1;35mwarning: [0m[1m
+o      undeclared selector 'insertNewObject:' [-Wundeclared-selector][0m
+o  ...target:self action:@selector(insertNewObject:)];
+o[0;1;32m                         ^
+o[0m1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/MasterViewController.m234"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/MasterViewController.o [1mpoddelusion/MasterViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdca07afd9f5cb941^76388efe9f5cb941^-320"[1m/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/MasterViewController.m:60:132: [0m[0;1;35mwarning: [0m[1m      undeclared selector 'insertNewObject:' [-Wundeclared-selector][0m  ...target:self action:@selector(insertNewObject:)];[0;1;32m                         ^[0m1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@38"Undeclared selector 'insertNewObject:'-425500670#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@108"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/MasterViewController.m0000000000000000^59#131#59#131#1650#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@108"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/MasterViewController.m0000000000000000^4119"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/MasterViewController.o [1mpoddelusion/MasterViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-generated-files.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-own-target-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-all-target-headers.hmap -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-project-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources/i386 -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources -F/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator -include /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/MasterViewController.d --serialize-diagnostics /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/MasterViewController.dia -c /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/MasterViewController.m -o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/MasterViewController.o36"989F1076-2395-4F4E-9C30-D8F3D951FC22-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/NSPDXMLParser.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/NSPDXMLParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425500670.594871
+e425500670.718630
+r1
+xCompileC
+xbuild/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/NSPDXMLParser.o
+x/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/NSPDXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/NSPDXMLParser.m
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/NSPDXMLParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/NSPDXMLParser.m220"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/NSPDXMLParser.o [1mpoddelusion/NSPDXMLParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler848098fe9f5cb941^d7f9b7fe9f5cb941^---0#0#1#-19%DVTDocumentLocation2@101"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/NSPDXMLParser.m0000000000000000^4077"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/NSPDXMLParser.o [1mpoddelusion/NSPDXMLParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-generated-files.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-own-target-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-all-target-headers.hmap -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-project-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources/i386 -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources -F/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator -include /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/NSPDXMLParser.d --serialize-diagnostics /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/NSPDXMLParser.dia -c /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/NSPDXMLParser.m -o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/NSPDXMLParser.o36"8D3B246A-21E8-4D64-9F31-C37C0C2E179C-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/RSSEntry.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/RSSEntry.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425500670.556898
+e425500670.719084
+r1
+xCompileC
+xbuild/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/RSSEntry.o
+x/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/RSSEntry.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/RSSEntry.m
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/RSSEntry.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/RSSEntry.m210"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/RSSEntry.o [1mpoddelusion/RSSEntry.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler66bf8efe9f5cb941^2503b8fe9f5cb941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/RSSEntry.m0000000000000000^4047"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/RSSEntry.o [1mpoddelusion/RSSEntry.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-generated-files.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-own-target-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-all-target-headers.hmap -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-project-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources/i386 -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources -F/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator -include /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/RSSEntry.d --serialize-diagnostics /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/RSSEntry.dia -c /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/RSSEntry.m -o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/RSSEntry.o36"E87B25E9-CF4B-44D4-9D55-B6DFF058F676-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CCompileC build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/main.o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425500669.944320
+e425500670.135471
+r1
+xCompileC
+xbuild/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/main.o
+x/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/main.m
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/main.m202"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/main.o [1mpoddelusion/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5bedf1fd9f5cb941^82ad22fe9f5cb941^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/main.m0000000000000000^4023"[1mCompileC[0m build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/main.o [1mpoddelusion/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-generated-files.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-own-target-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-all-target-headers.hmap -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-project-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources/i386 -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources -F/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator -include /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/main.dia -c /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/main.m -o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/main.o36"3FBC4F0B-2315-4487-80FC-5613A2547B22-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CCompileStoryboard /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/Base.lproj/Main_iPad.storyboard
+s425500671.786283
+e425500691.667614
+r1
+xCompileStoryboard
+x/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"[1mCompileStoryboard[0m [1mpoddelusion/Base.lproj/Main_iPad.storyboard[0m77"[1mCompileStoryboard[0m [1mpoddelusion/Base.lproj/Main_iPad.storyboard[0m7863c9ff9f5cb941^5b07ab13a05cb941^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/Base.lproj/Main_iPad.storyboard0000000000000000^1130"[1mCompileStoryboard[0m [1mpoddelusion/Base.lproj/Main_iPad.storyboard[0m    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/Base.lproj/Main_iPad.storyboardc /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/Base.lproj/Main_iPad.storyboard36"8174AAB5-2297-4A91-98E8-949A91DE6B8F-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CCompileStoryboard /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/Base.lproj/Main_iPhone.storyboard
+s425500671.817985
+e425500687.648892
+r1
+xCompileStoryboard
+x/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"[1mCompileStoryboard[0m [1mpoddelusion/Base.lproj/Main_iPhone.storyboard[0m79"[1mCompileStoryboard[0m [1mpoddelusion/Base.lproj/Main_iPhone.storyboard[0m7b85d1ff9f5cb941^e31ba60fa05cb941^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/Base.lproj/Main_iPhone.storyboard0000000000000000^1136"[1mCompileStoryboard[0m [1mpoddelusion/Base.lproj/Main_iPhone.storyboard[0m    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/Base.lproj/Main_iPhone.storyboardc /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/Base.lproj/Main_iPhone.storyboard36"FE38B396-D76C-4C78-8A40-55380586AF1E-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CCopyStringsFile /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/en.lproj/InfoPlist.strings poddelusion/en.lproj/InfoPlist.strings
+s425500687.686482
+e425500687.720581
+r1
+xCopyStringsFile
+x/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/en.lproj/InfoPlist.strings
+xpoddelusion/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy poddelusion/en.lproj/InfoPlist.strings128"[1mCopyStringsFile[0m Frank/frankified_build/poddelusion.app/en.lproj/InfoPlist.strings poddelusion/en.lproj/InfoPlist.stringsa1dbaf0fa05cb941^5378b80fa05cb941^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/en.lproj/InfoPlist.strings0000000000000000^834"[1mCopyStringsFile[0m Frank/frankified_build/poddelusion.app/en.lproj/InfoPlist.strings poddelusion/en.lproj/InfoPlist.strings    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/en.lproj -- poddelusion/en.lproj/InfoPlist.strings36"3BBEDD5C-EBBA-46A1-BCAC-02FF3A15C176-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CCpResource poddelusion/Icon.png Frank/frankified_build/poddelusion.app/Icon.png
+s425500671.785633
+e425500671.816723
+r1
+xCpResource
+xpoddelusion/Icon.png
+xFrank/frankified_build/poddelusion.app/Icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy Frank/frankified_build/poddelusion.app/Icon.png87"[1mCpResource[0m poddelusion/Icon.png Frank/frankified_build/poddelusion.app/Icon.png2d3ec9ff9f5cb941^2316d1ff9f5cb941^---0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/Frank/frankified_build/poddelusion.app/Icon.png0038548ddfffdf42^841"[1mCpResource[0m poddelusion/Icon.png Frank/frankified_build/poddelusion.app/Icon.png    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/Icon.png /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app36"237B04B6-314F-4C98-94C6-1FA7A7CE9B05-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CCpResource poddelusion/Icon@2x.png Frank/frankified_build/poddelusion.app/Icon@2x.png
+s425500687.650219
+e425500687.685228
+r1
+xCpResource
+xpoddelusion/Icon@2x.png
+xFrank/frankified_build/poddelusion.app/Icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy Frank/frankified_build/poddelusion.app/Icon@2x.png93"[1mCpResource[0m poddelusion/Icon@2x.png Frank/frankified_build/poddelusion.app/Icon@2x.png2195a60fa05cb941^7f6baf0fa05cb941^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/Frank/frankified_build/poddelusion.app/Icon@2x.png0038548ddfffdf42^850"[1mCpResource[0m poddelusion/Icon@2x.png Frank/frankified_build/poddelusion.app/Icon@2x.png    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/Icon@2x.png /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app36"79CC6F7F-1B0F-4302-BED7-7D430183CA27-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CGenerateDSYMFile /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app.dSYM /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/poddelusion
+s425500691.688524
+e425500691.963084
+r1
+xGenerateDSYMFile
+x/Users/chrisnicholson/iOS App Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app.dSYM
+x/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/poddelusion
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Generate /Users/chrisnicholson/iOS App Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app.dSYM132"[1mGenerateDSYMFile[0m [1mbuild/Debug-iphonesimulator/poddelusion.app.dSYM[0m Frank/frankified_build/poddelusion.app/poddelusion2d5eb013a05cb941^1d8ef613a05cb941^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app.dSYM0038548ddfffdf42^917"[1mGenerateDSYMFile[0m [1mbuild/Debug-iphonesimulator/poddelusion.app.dSYM[0m Frank/frankified_build/poddelusion.app/poddelusion    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/poddelusion -o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app.dSYM36"8462B2D6-D2EF-4EE5-854F-D4E1651215AD-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CLd /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/poddelusion normal i386
+s425500670.728172
+e425500671.776086
+r1
+xLd
+x/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/poddelusion
+xnormal
+xi386
+d/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/poddelusion.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/AppDelegate.o
+d/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/MasterViewController.o
+d/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/main.o
+d/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/DetailViewController.o
+d/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/RSSEntry.o
+d/Users/chrisnicholson/iOS App Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/NSPDXMLParser.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Users/chrisnicholson/iOS App Development/poddelusion/Frank/libShelley.a
+d/Users/chrisnicholson/iOS App Development/poddelusion/Frank/libCocoaAsyncSocket.a
+d/Users/chrisnicholson/iOS App Development/poddelusion/Frank/libCocoaLumberjack.a
+d/Users/chrisnicholson/iOS App Development/poddelusion/Frank/libCocoaHTTPServer.a
+d/Users/chrisnicholson/iOS App Development/poddelusion/Frank/libFrank.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/poddelusion73"[1mLd[0m Frank/frankified_build/poddelusion.app/poddelusion normal i386378cbafe9f5cb941^a3b1c6ff9f5cb941^---0#0#1#--1870"[1mLd[0m Frank/frankified_build/poddelusion.app/poddelusion normal i386    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator -L/Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank -F/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator -filelist /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/poddelusion.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -all_load -ObjC -framework CFNetwork -framework Security -lShelley -lCocoaAsyncSocket -lCocoaLumberjack -lCocoaHTTPServer -lFrank -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/Objects-normal/i386/poddelusion_dependency_info.dat -o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/poddelusion36"9D17F344-436F-4EE4-9FE7-072065B96911-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CProcessInfoPlistFile /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/Info.plist /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/poddelusion-Info.plist
+s425500691.675557
+e425500691.680178
+r1
+xProcessInfoPlistFile
+x/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app/Info.plist
+x/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/poddelusion-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Process /Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/poddelusion-Info.plist121"[1mProcessInfoPlistFile[0m Frank/frankified_build/poddelusion.app/Info.plist [1mpoddelusion/poddelusion-Info.plist[0m1711ad13a05cb941^3620ae13a05cb941^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/poddelusion-Info.plist0000000000000000^1174"[1mProcessInfoPlistFile[0m Frank/frankified_build/poddelusion.app/Info.plist [1mpoddelusion/poddelusion-Info.plist[0m    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/poddelusion-Info.plist -genpkginfo /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/assetcatalog_generated_info.plist -o /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app/Info.plist36"CB9DE225-5373-4112-9385-A548DCA4EF0E-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CProcessPCH /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch.pch poddelusion/poddelusion-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425500664.285298
+e425500669.469065
+r1
+xProcessPCH
+x/var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch.pch
+xpoddelusion/poddelusion-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chrisnicholson/iOS App Development/poddelusion/poddelusion/poddelusion-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile poddelusion/poddelusion-Prefix.pch312"[1mProcessPCH[0m /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch.pch poddelusion/poddelusion-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7f2f49f89f5cb941^d71478fd9f5cb941^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/chrisnicholson/iOS%20App%20Development/poddelusion/poddelusion/poddelusion-Prefix.pch0000000000000000^4075"[1mProcessPCH[0m /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch.pch poddelusion/poddelusion-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-generated-files.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-own-target-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-all-target-headers.hmap -iquote /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/poddelusion-project-headers.hmap -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources/i386 -I/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/poddelusion.build/Debug-iphonesimulator/poddelusion.build/DerivedSources -F/Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch.d -c /Users/chrisnicholson/iOS\ App\ Development/poddelusion/poddelusion/poddelusion-Prefix.pch -o /var/folders/pv/_d5q_h3x1k55m4d8wpkcxn080000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/poddelusion-Prefix-eoixshoboykpuragxkuenhwxuvfx/poddelusion-Prefix.pch.pch36"BE88FC28-C7AF-46B1-9425-12246409F115-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CSymLink /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app
+s425500664.116001
+e425500664.228938
+r1
+xSymLink
+x/Users/chrisnicholson/iOS App Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app
+x/Users/chrisnicholson/iOS App Development/poddelusion/Frank/frankified_build/poddelusion.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Process /Users/chrisnicholson/iOS App Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app98"[1mSymLink[0m build/Debug-iphonesimulator/poddelusion.app Frank/frankified_build/poddelusion.app9c142af89f5cb941^9d9b3af89f5cb941^---0#0#1#--779"[1mSymLink[0m build/Debug-iphonesimulator/poddelusion.app Frank/frankified_build/poddelusion.app    cd "/Users/chrisnicholson/iOS App Development/poddelusion"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/chrisnicholson/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/chrisnicholson/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /bin/ln -sf /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app /Users/chrisnicholson/iOS\ App\ Development/poddelusion/build/Debug-iphonesimulator/poddelusion.app36"18C4A963-F4AB-4B3F-BF02-6903A5D40227-
+bAFA9B0AE-9B6B-4F44-9407-CB17FD03B9A4
+
+CTouch /Users/chrisnicholson/iOS\ App\ Development/poddelusion/Frank/frankified_build/poddelusion.app
+r0
+
